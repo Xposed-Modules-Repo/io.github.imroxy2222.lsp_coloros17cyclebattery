@@ -1,3 +1,8 @@
+# 因为懒得管理密钥与密码,因此把它们一起上传到了github仓库
+# 不要在其他任何地方下载apk安装
+# 认准lsp仓库或源码仓库
+# 源码仓库禁止pr
+
 # 环形电量
 
 在挖孔摄像头周围绘制一圈电量环的 [LSPosed](https://github.com/LSPosed/LSPosed) 模块。
@@ -37,7 +42,6 @@
 
 ## 源码
 
-因为懒得保存密钥与密码, 便将他两一起上传到github了, 所以仓库变是私有的, 需要源码可issue留下邮箱, 看到会发给你
 
 [imRoxy2222/lsp_CycleBattery](https://github.com/imRoxy2222/lsp_CycleBattery)
 
