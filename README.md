@@ -37,4 +37,7 @@
 
 ## 源码
 
+因为懒得保存密钥与密码, 便将他两一起上传到github了, 所以仓库变是私有的, 需要源码可issue留下邮箱, 看到会发给你
+
 [imRoxy2222/lsp_CycleBattery](https://github.com/imRoxy2222/lsp_CycleBattery)
+
